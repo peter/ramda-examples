@@ -1,0 +1,25 @@
+{
+  "name": "ramda-examples",
+  "version": "0.0.1",
+  "description": "Practical examples of how to use the Ramda functional JavaScript library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:peter/ramda-examples.git"
+  },
+  "keywords": [
+    "functional",
+    "javascript",
+    "ramda",
+    "learning"
+  ],
+  "author": "Peter Marklund",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peter/ramda-examples/issues"
+  },
+  "homepage": "https://github.com/peter/ramda-examples"
+}
