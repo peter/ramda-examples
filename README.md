@@ -8,4 +8,5 @@
 
 ## Resources
 
+* [Ramda docs](http://ramdajs.com/docs)
 * [Ramda REPL](http://ramdajs.com/repl)
